@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amir\Desktop\ANDROID\Udacity\NanoDegree\Gradle\FinalProject-Gradle\app\build\intermediates\incremental-classes\paid\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd6982b34fccd11c03aa4926bc424b4378396235">
+        <dex dex="C:\Users\Amir\Desktop\ANDROID\Udacity\NanoDegree\Gradle\FinalProject-Gradle\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10000\instant-run-bootstrap_974009cc624cc9c4c96fe448400ee3a53c662cec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amir\Desktop\ANDROID\Udacity\NanoDegree\Gradle\FinalProject-Gradle\app\build\intermediates\incremental-runtime-classes\paid\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Amir\Desktop\ANDROID\Udacity\NanoDegree\Gradle\FinalProject-Gradle\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10000\instant-run_c6d150b093c65dee860042f630b506ce92ffa40b\classes.dex" />
+    </item>
+
+</items>
